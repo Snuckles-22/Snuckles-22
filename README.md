@@ -1,7 +1,6 @@
 <!-- Banner animado (opcional) -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F7DF1E&center=true&vCenter=true&width=600&lines=Olá,+eu+sou+o+Flávio+Eduardo!;Apaixonado+por+programação;Vamos+codar+juntos!" alt="Typing SVG" />
 
-
 ---
 
 ## 👋 Sobre mim
