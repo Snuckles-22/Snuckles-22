@@ -5,7 +5,7 @@ Sou o **Flávio Eduardo**, também conhecido como **Snuckles** — um programado
 
 - 🎓 Atualmente cursando **Análise e Desenvolvimento de Sistemas** na **Faculdade IESB da Ceilândia (Brasília - DF)**
 - 🌱 Estudando: **Desenvolvimento Web e Banco de Dados**
-- 💡 Interesses: **Front-end, Back-end, UI/UX, Design, Inteligência Artificial**
+- 💡 Interesses: **Front-end, Back-end**
 - 💬 Vamos trocar ideia? Me chama no LinkedIn!
 - ⚡ Curiosidade: Às vezes falo mais com o VSCode do que com humanos 👀
 
