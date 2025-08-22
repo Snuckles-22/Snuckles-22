@@ -1,7 +1,7 @@
 
 ##  Sobre mim
 
-Sou o **Flávio Eduardo**, também conhecido como **Snuckles** — um programador com sede de conhecimento, código na veia e um bom gosto por interfaces caprichadas. Curioso, inquieto e sempre em busca de novos desafios. Bora construir o futuro uma linha de código por vez? 🚀
+Sou o **Flávio Eduardo**, também conhecido como **Snuckles** — um programador com sede de conhecimento, código na veia e um bom gosto por interfaces caprichadas. Curioso, inquieto e sempre em busca de novos desafios. Bora construir o futuro uma linha de código por vez? 
 
 -  Atualmente cursando **Análise e Desenvolvimento de Sistemas** na **Faculdade IESB da Ceilândia (Brasília - DF)**
 -  Estudando: **Desenvolvimento Web e Banco de Dados**
