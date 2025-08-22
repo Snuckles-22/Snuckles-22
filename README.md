@@ -1,24 +1,24 @@
 
-## 👋 Sobre mim
+##  Sobre mim
 
 Sou o **Flávio Eduardo**, também conhecido como **Snuckles** — um programador com sede de conhecimento, código na veia e um bom gosto por interfaces caprichadas. Curioso, inquieto e sempre em busca de novos desafios. Bora construir o futuro uma linha de código por vez? 🚀
 
-- 🎓 Atualmente cursando **Análise e Desenvolvimento de Sistemas** na **Faculdade IESB da Ceilândia (Brasília - DF)**
-- 🌱 Estudando: **Desenvolvimento Web e Banco de Dados**
-- 💡 Interesses: **Front-end, Back-end**
-- 💬 Vamos trocar ideia? Me chama no LinkedIn!
-- ⚡ Curiosidade: Às vezes falo mais com o VSCode do que com humanos 👀
+-  Atualmente cursando **Análise e Desenvolvimento de Sistemas** na **Faculdade IESB da Ceilândia (Brasília - DF)**
+-  Estudando: **Desenvolvimento Web e Banco de Dados**
+-  Interesses: **Front-end, Back-end**
+-  Vamos trocar ideia? Me chama no LinkedIn!
+-  Curiosidade: Às vezes falo mais com o VSCode do que com humanos 👀
 
 ---
 
-## 🌐 Conecte-se comigo
+##  Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/flavio-eduardo-3314612b9/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_snuckles_/)
 
 ---
 
-## 📊 Estatísticas do GitHub
+##  Estatísticas do GitHub
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Snuckles-22&show_icons=true&theme=dracula&count_private=true" />
@@ -27,7 +27,7 @@ Sou o **Flávio Eduardo**, também conhecido como **Snuckles** — um programado
 
 ---
 
-## 🛠️ Tecnologias que uso no dia a dia
+## 🛠 Tecnologias que uso no dia a dia
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px;">
   <img src="https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -42,13 +42,13 @@ Sou o **Flávio Eduardo**, também conhecido como **Snuckles** — um programado
 
 ---
 
-## 💼 Projetos em Construção
+##  Projetos em Construção
 
 Ainda não tenho muitos projetos públicos, mas estou estudando e desenvolvendo ideias todos os dias. Em breve vou compartilhar coisas bem legais por aqui — fica de olho! 👀💻
 
 ---
 
-## ✨ Frase que me move
+##  Frase que me move
 
 > "Não é sobre ser o melhor dev do mundo. É sobre ser melhor que ontem."
 
