@@ -18,15 +18,6 @@ Sou o **Flávio Eduardo**, também conhecido como **Snuckles** — um programado
 
 ---
 
-##  Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Snuckles-22&show_icons=true&theme=dracula&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Snuckles-22&layout=compact&langs_count=8&theme=dracula&title=Linguagens+mais+usadas" />
-</div>
-
----
-
 ## 🛠 Tecnologias que uso no dia a dia
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px;">
