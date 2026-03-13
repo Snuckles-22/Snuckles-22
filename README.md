@@ -7,7 +7,7 @@ Sou o **Flávio Eduardo**, também conhecido como **Snuckles** — um programado
 -  Estudando: **Desenvolvimento Web e Banco de Dados**
 -  Interesses: **Front-end, Back-end**
 -  Vamos trocar ideia? Me chama no LinkedIn!
--  Curiosidade: Às vezes falo mais com o VSCode do que com humanos 👀
+-  Curiosidade: Às vezes falo mais com o VSCode do que com humanos 
 
 ---
 
@@ -18,7 +18,7 @@ Sou o **Flávio Eduardo**, também conhecido como **Snuckles** — um programado
 
 ---
 
-## 🛠 Tecnologias que uso no dia a dia
+##  Tecnologias que uso no dia a dia
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px;">
   <img src="https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -35,7 +35,7 @@ Sou o **Flávio Eduardo**, também conhecido como **Snuckles** — um programado
 
 ##  Projetos em Construção
 
-Ainda não tenho muitos projetos públicos, mas estou estudando e desenvolvendo ideias todos os dias. Em breve vou compartilhar coisas bem legais por aqui — fica de olho! 👀💻
+Ainda não tenho muitos projetos públicos, mas estou estudando e desenvolvendo ideias todos os dias. Em breve vou compartilhar coisas bem legais por aqui — fica de olho! 
 
 ---
 
